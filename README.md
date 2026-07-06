@@ -1,5 +1,5 @@
 ## Overview
-This project analyzes an Electric Vehicle (EV) Fleet dataset using Python and Google Colab.
+This project analyzes an Electric Vehicle (EV) dataset using Python and Google Colab.
 
 ## Features
 - Vehicle Running Count
