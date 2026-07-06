@@ -39,6 +39,8 @@ df.describe()
 
 df.isnull().sum()
 
+list(df)
+
 running = df[df["vehicle_status"] == "Running"]
 
 print("Vehicles Running =", len(running))
